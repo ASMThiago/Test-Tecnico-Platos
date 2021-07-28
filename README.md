@@ -97,7 +97,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[React Router DOM](https://www.npmjs.com/package/react-router-dom)**
 - **[Clipyboard-copy](https://www.npmjs.com/package/clipboard-copy)**
 
-> Veja o arquivo [package.json]()
+> Veja o arquivo [package.json](https://github.com/ASMThiago/Test-Tecnico-Platos/blob/master/package.json)
  
  ## 🦸 Autor
 
