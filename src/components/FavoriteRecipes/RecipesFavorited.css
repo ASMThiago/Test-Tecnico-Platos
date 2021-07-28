@@ -1,0 +1,15 @@
+.container-favorite {
+  display: flex;
+}
+
+.border-card-favorite {
+  border: 1px solid black;
+  border-radius: 4px;
+  margin: 32px 16px;
+}
+
+.icon-favorite {
+  position: relative;
+  left: 132px;
+  bottom: 40px
+}

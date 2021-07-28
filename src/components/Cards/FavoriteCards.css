@@ -1,0 +1,19 @@
+.recipe-card-favorite {
+  height: 20rem;
+  margin: 5rem;
+  padding: 2rem;
+  width: 15rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.recipe-card-favorite h3 {
+  color: black;
+  font-size: 2em;
+  text-align: center;
+}
+
+.recipe-card-favorite img {
+  max-height: 20rem;
+  max-width: 15rem;
+}

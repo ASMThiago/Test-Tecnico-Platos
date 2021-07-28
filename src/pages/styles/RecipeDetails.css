@@ -1,0 +1,46 @@
+.btn-recipe {
+  bottom: 0;
+  left: 0;
+  position: fixed;
+}
+
+.card-details {
+  display: flex;
+  border: 1px solid black;
+}
+
+.img-details {
+  width: 32%;
+  margin-right: 24px;
+}
+
+.title-details {
+  font-size: 72px;
+}
+
+.subtitle-details {
+  font-size: 32px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.ul-details {
+  font-size: 24px;
+}
+
+.li-details {
+  margin-bottom: 16px;
+}
+
+.instructions-details {
+  font-size: 24px;
+}
+
+.div-icons-details {
+  position: relative;
+  top: 32px;
+}
+
+.icons-details {
+  width: 6%;
+  margin-right: 32px;
+}
