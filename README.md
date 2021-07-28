@@ -67,7 +67,7 @@ Antes de começar, é preciso ter instalado as seguintes ferramentas:
 
 # Abra a pasta onde vai ficar o projeto
 # Clone este repositório
-$ git clone
+$ git clone git@github.com:ASMThiago/Test-Tecnico-Platos.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd teste-platos
